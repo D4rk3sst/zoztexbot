@@ -1,0 +1,10 @@
+[
+    {
+        "Currency Pair": "CHF/JPY",
+        "Time to Execute": "13:56",
+        "Direction": "PUT",
+        "Time Zone": "UTC -3",
+        "Expiry": "minutes",
+        "First Gale Time": "00:40"
+    }
+]

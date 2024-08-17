@@ -1,0 +1,17 @@
+psutil
+pytz>=2023.3
+urllib3>=2.2.2
+websockets>=12
+greenlet>=3.0.3
+requests>=2.32.3
+certifi>=2022.12.7
+websocket-client>=1.8
+requests-toolbelt>=1.0.0
+undetected-chromedriver>=3.5.5
+pytest==7.4.2
+black==23.9.1
+poetry==1.6.1
+pylint==2.17.5
+termcolor==2.3.0
+setuptools==72.1.0
+telethon==1.36.0 
